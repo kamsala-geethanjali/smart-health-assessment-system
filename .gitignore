@@ -1,0 +1,18 @@
+# Exclude project backup copies
+smart health assistant back up/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Local environment variables and secrets
+.env
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
